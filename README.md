@@ -130,7 +130,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-👤 Author
-
+👤 Author :
 Deepti Gupta
-[GitHub Profile](https://github.com/Deeptig9138)
+- [GitHub Profile](https://github.com/Deeptig9138)
