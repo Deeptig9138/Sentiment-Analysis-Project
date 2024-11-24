@@ -66,7 +66,7 @@ Clean and preprocess the dataset using:
 python src/preprocessing.py
 ```
 
-![Preprocessing]()
+![Preprocessing](https://github.com/Deeptig9138/Sentiment-Analysis-Project/blob/main/assets/preprocessing.png)
 
 2️⃣ Data Visualization
 Generate visual insights using:
@@ -74,7 +74,7 @@ Generate visual insights using:
 python src/visualization.py
 ```
 
-![Visualization]()
+![Visualization](https://github.com/Deeptig9138/Sentiment-Analysis-Project/blob/main/assets/visualization.png)
 
 3️⃣ Model Training
 Train and evaluate the sentiment classification model using:
@@ -88,7 +88,7 @@ python src/model.py
 Sentiment Over Time
 Trends over time based on the Date column:
 
-![Result]()
+![Result](https://github.com/Deeptig9138/Sentiment-Analysis-Project/blob/main/assets/result.png)
 
 ---
 
