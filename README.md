@@ -131,5 +131,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 👤 Author
+
 Deepti Gupta
 [GitHub Profile](https://github.com/Deeptig9138)
