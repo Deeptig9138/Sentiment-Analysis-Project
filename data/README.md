@@ -55,15 +55,18 @@ Ensure the dataset includes the following columns:
 - Score: Numerical ratings associated with each review.
 
 Generated Files:
+
 Preprocessed data will be saved as preprocessed_reviews.csv in the data/ folder.
 If the preprocessing.py script doesn't run correctly, double-check the dataset's format and update its path if necessary.
 
 ---
 
 🔗 Related Resources
+
 Main Project README
 
 ---
 
 ⚠️ Reminder
+
 The dataset is a critical part of this project. Without the proper Reviews.csv, the scripts for preprocessing, visualization, and modeling will not function correctly.
