@@ -13,13 +13,14 @@ Please download the dataset from the following link:
 ## 🛠️ Instructions  
 
 ### 1️⃣ Save the Dataset  
-After downloading the dataset:  
+After downloading the dataset: 
+
 - Place the **`Reviews.csv`** file in the `data/` directory of the project.  
   ```
   Sentiment-Analysis-Project  
   ├── data/  
   │   ├── Reviews.csv  
-  │   └── (Other files will be generated here)
+  │   └── preprocessed_reviews.csv (will be generated after running preprocessing.py)
   ```
 
 ### 2️⃣ Update the File Path
