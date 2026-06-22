@@ -1,8 +1,6 @@
 # 📊 Sentiment Analysis Project  
 This project is a **Sentiment Analysis** system built using Python. It processes and analyzes customer reviews to determine their sentiment (Positive/Negative) while providing visual insights and machine learning predictions.  
 
-![Project Banner](https://i2.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/06/Untitled-62.png?fit=580%2C326&ssl=1)
-
 ---
 
 ## ✨ Features  
